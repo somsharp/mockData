@@ -1,1 +1,0 @@
-import{r as e,h as r}from"./p-ac6f7314.js";class s{constructor(r){e(this,r)}render(){return[r("supplier-select",null),r("payment-card",{"supplier-id":"0002080276","slim-layout":"true"}),r("payment-list-detail",{"supplier-id":"0002080276"})]}}s.style="";export{s as payments_page}
