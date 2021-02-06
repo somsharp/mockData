@@ -1,0 +1,1 @@
+System.register(["./p-2cf3beef.system.js"],(function(t){"use strict";var r,e;return{setters:[function(t){r=t.r;e=t.h}],execute:function(){var n="";var u=function(){function t(t){r(this,t)}t.prototype.render=function(){var t=this;return e("row",null,this.columns.map((function(r){return e("td",null,t.character[r])})))};return t}();t("dxp_table_row",u);u.style=n}}}));
